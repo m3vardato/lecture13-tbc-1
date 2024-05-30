@@ -1,0 +1,196 @@
+header {
+  .container {
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+    ul {
+      margin-top: 21px;
+      display: flex;
+      gap: 35px;
+      a {
+        @include aebistvis;
+      }
+    }
+  }
+}
+
+.h31 {
+  margin-top: 42px;
+  margin-left: 176px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.container {
+  max-width: 1180px;
+  width: 100%;
+  margin: 0 auto;
+  .img1 {
+    margin-top: 27px;
+    position: relative;
+    z-index: 1;
+  }
+  .img2 {
+    margin-left: 40px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .pebi {
+    display: flex;
+    justify-content: space-around;
+    p {
+      color: #fff;
+      font-family: Roboto;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      position: relative;
+      z-index: 2;
+      margin-right: 100px;
+      margin-top: -150px;
+    }
+  }
+  .d1 {
+    display: flex;
+    gap: 44px;
+  }
+  .divebi {
+    display: flex;
+    background-color: #f1f1f1;
+    width: 362px;
+    height: 171px;
+    border-radius: 0px 0px 5px 5px;
+
+    h3 {
+      padding-left: 15px;
+      padding-top: 67px;
+      color: #8a8787;
+      font-family: Roboto;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+    }
+  }
+  h2 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 57px;
+    margin-bottom: 30px;
+  }
+
+  .potoebi {
+    .idkkk {
+      display: flex;
+    }
+    .warwera {
+      color: #fff;
+      font-family: Roboto;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      position: relative;
+      z-index: 2;
+      margin-top: 200px;
+      margin-left: 315px;
+      display: inline-block;
+    }
+    .pirveli {
+      position: relative;
+      z-index: 1;
+      margin-top: px;
+      margin-left: -480px;
+      vertical-align: middle;
+    }
+    .zsz {
+      height: 837px;
+      width: 362px;
+      display: inline-block;
+      margin-top: -950px;
+      vertical-align: middle;
+    }
+    .meore {
+      margin-left: 37px;
+      margin-top: 42px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .mesame {
+      margin-left: 37px;
+      margin-bottom: 98px;
+      position: relative;
+    }
+
+    .meotxe {
+      margin-left: 37px;
+      margin-bottom: 98px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .mexute {
+      margin-left: 37px;
+    }
+  }
+
+  .bolo {
+    width: 1440px;
+    height: 201px;
+    background: #243043;
+    margin-top: 36px;
+  }
+  .f1 {
+    padding-top: 59px;
+    padding-left: 137px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .h33 {
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 21px;
+  }
+
+  .h311 {
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  .zebra {
+    display: inline-block;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 112px;
+    vertical-align: middle;
+  }
+
+  .bolopoto {
+    margin-left: 300px;
+    margin-top: 60px;
+  }
+}
